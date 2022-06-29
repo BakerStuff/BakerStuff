@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BakerStuff
+- 👀 I’m interested in sports, and Data Analytics/Science
+- 🌱 I’m currently learning python through CS50
+- 📫 How to reach me BakerM0824@gmail.com or 570 269 9308
